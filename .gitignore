@@ -24,3 +24,5 @@ public/.DS_Store
 .idea/
 .byebug_history
 public/system
+
+db/*.sqlite3
